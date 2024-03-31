@@ -1,4 +1,4 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/morinaga-9bd8a.appspot.com/o/design.jpg?alt=media&token=babe80d4-465c-411a-a78d-92d774f235bd)
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/mera-portfolio.appspot.com/o/Capture.JPG?alt=media&token=659ec635-6ce1-441a-92a3-cb614d967934)
 
 <h1 align="center">Hi 👋, I'm Muzammil Shah</h1>
 <h3 align="left">A passionate full-stack MERN developer with over 6 of experience in building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. I am proficient in both front-end and back-end technologies, allowing me to tackle challenges across the entire stack.</h3>
