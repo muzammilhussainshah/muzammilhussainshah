@@ -7,7 +7,7 @@
 
 
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=abddullah&label=Profile%30views&color=0e75b6&style=flat" alt="Muzammil" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=muzammilhussainshah&label=Profile%20views&color=0e75b6&style=flat" alt="Muzammil" /> </p>
 
 - 🔭 I can make anything you want, if you can describe exactly what you want, will get the exact service until full satisfaction. If you are confused or cannot know, actually what you are wanting, I can also help you to decide what is possible in reality and what can be good for your business so that you can decide what service to take what's not.
 
