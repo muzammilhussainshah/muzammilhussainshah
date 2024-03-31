@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01124e8bcb0ba30114](https://www.upwork.com/freelancers/~01124e8bcb0ba30114)
+- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01eedf541cde72f13b](https://www.upwork.com/freelancers/~01eedf541cde72f13b)
 
 - 💬 Ask me about **Flutter , React Native**
 
 - 📫 How to reach me **mynameismuzammilhussainshah@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1mm18PMxuf39xgeZJ9oJd2Q76iZeWaRZY](https://drive.google.com/drive/u/0/folders/1mm18PMxuf39xgeZJ9oJd2Q76iZeWaRZY)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sj6vlFAEIrR92eHfSnYGg2SbwdKN6kMB/view?usp=sharing](https://drive.google.com/file/d/1sj6vlFAEIrR92eHfSnYGg2SbwdKN6kMB/view?usp=sharing)
 
 - ⚡ Fun fact **A fun fact about me is that I thoroughly enjoy playing PUBG.**
 
