@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadMavia&show_icons=true&locale=en&layout=compact" alt="Muzammil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadMavia&show_icons=true&locale=en" alt="Muzammil" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammilhussainshah&show_icons=true&locale=en" alt="Muzammil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMavia&" alt="Muzammil" /></p>
